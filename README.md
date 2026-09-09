@@ -3,14 +3,11 @@
 ## Project Objective
 The objective of this project is to analyze pizza sales data using SQL and extract meaningful business insights related to orders, revenue, pizza categories, and customer ordering patterns.
 
-Dataset used
-
-The dataset contains the following tables:
-
-Orders
-Order Details
-Pizzas
-Pizza Types
+## The dataset contains the following tables:
+- Orders
+- Order Details
+- Pizzas
+- Pizza Types
 
 ## Questions (KPIs)
 - Retrieve the total number of orders placed.
